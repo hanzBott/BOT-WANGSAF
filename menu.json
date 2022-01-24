@@ -1,0 +1,171 @@
+❏ _*Other*_
+${simbol} ${prefix}store
+${simbol} ${prefix}infobot
+${simbol} ${prefix}cekprem
+${simbol} ${prefix}scbot
+${simbol} ${prefix}owner
+${simbol} ${prefix}donasi
+${simbol} ${prefix}request <fitur>
+${simbol} ${prefix}report <fitur>
+
+❏ _*Owner*_
+${simbol} ${prefix}self
+${simbol} ${prefix}public
+${simbol} ${prefix}readall
+${simbol} ${prefix}broadcast <text>
+${simbol} ${prefix}setsimbol
+${simbol} ${prefix}setfake <reply image>
+${simbol} ${prefix}setreply <nama>
+${simbol} ${prefix}setthumb <reply image>
+${simbol} ${prefix}ban 628xxx
+${simbol} ${prefix}unban 628xxx
+${simbol} ${prefix}addprem 628xxx
+${simbol} ${prefix}delprem 628xxx
+
+❏ _*Group*_
+${simbol} ${prefix}antilink
+${simbol} ${prefix}welcome
+${simbol} ${prefix}rate
+${simbol} ${prefix}apakah
+${simbol} ${prefix}benew
+${simbol} ${prefix}menew
+${simbol} ${prefix}bisakah
+${simbol} ${prefix}kapankah
+${simbol} ${prefix}leave
+${simbol} ${prefix}closegc
+${simbol} ${prefix}opengc
+${simbol} ${prefix}linkgrup
+${simbol} ${prefix}listadmin
+${simbol} ${prefix}setpp
+${simbol} ${prefix}setppgrup
+${simbol} ${prefix}kick @tag
+${simbol} ${prefix}add +628
+${simbol} ${prefix}tagall
+${simbol} ${prefix}hidetag
+${simbol} ${prefix}demote
+${simbol} ${prefix}promote
+${simbol} ${prefix}delete
+
+❏ _*Convert*_
+${simbol} ${prefix}ttp
+${simbol} ${prefix}attp
+${simbol} ${prefix}dare
+${simbol} ${prefix}truth
+${simbol} ${prefix}sticker <reply>
+${simbol} ${prefix}toimg <reply>
+${simbol} ${prefix}cerpen
+${simbol} ${prefix}tongue
+${simbol} ${prefix}pantun
+${simbol} ${prefix}nuliskiri
+${simbol} ${prefix}nuliskanan
+${simbol} ${prefix}foliokiri
+${simbol} ${prefix}foliokanan
+
+❏ _*Download*_
+${simbol} ${prefix}igdl <link>
+${simbol} ${prefix}tiktok <link>
+${simbol} ${prefix}ytmp3 <link>
+${simbol} ${prefix}ytmp4 <link>
+${simbol} ${prefix}ytplay <judul>
+${simbol} ${prefix}playmp4 <judul>
+${simbol} ${prefix}playmp3 <judul>
+${simbol} ${prefix}mediafire <link>
+${simbol} ${prefix}instagram <link>
+
+❏ _*Search*_
+${simbol} ${prefix}waifu
+${simbol} ${prefix}husbu
+${simbol} ${prefix}herolist
+${simbol} ${prefix}herodetail
+${simbol} ${prefix}ytsearch
+${simbol} ${prefix}pinterest
+${simbol} ${prefix}playstore
+${simbol} ${prefix}nekonime
+${simbol} ${prefix}namaninja
+${simbol} ${prefix}imgsearch
+${simbol} ${prefix}searchgrup
+
+❏ _*Canvas*_
+${simbol} ${prefix}rem
+${simbol} ${prefix}gura
+${simbol} ${prefix}serti1
+${simbol} ${prefix}serti2
+${simbol} ${prefix}serti3
+${simbol} ${prefix}kaneki
+${simbol} ${prefix}sadboy
+${simbol} ${prefix}girlneko
+${simbol} ${prefix}lolimaker
+
+❏ _*Random*_
+${simbol} ${prefix}fox
+${simbol} ${prefix}cat
+${simbol} ${prefix}dog
+${simbol} ${prefix}birb
+${simbol} ${prefix}koala
+${simbol} ${prefix}panda
+${simbol} ${prefix}meme
+${simbol} ${prefix}nickepep
+${simbol} ${prefix}katailham
+${simbol} ${prefix}red_panda
+${simbol} ${prefix}estetikpic
+${simbol} ${prefix}darkjokes
+${simbol} ${prefix}memeindo
+${simbol} ${prefix}katasindiran
+${simbol} ${prefix}randombokep
+
+❏ _*Nsfw*_
+${simbol} ${prefix}trap
+${simbol} ${prefix}neko
+${simbol} ${prefix}awoo
+${simbol} ${prefix}waifu
+${simbol} ${prefix}blowjob
+${simbol} ${prefix}megumin
+${simbol} ${prefix}shinobu
+break
+
+❏ _*Maker*_
+${simbol} ${prefix}bneon
+${simbol} ${prefix}matrix
+${simbol} ${prefix}breakwall
+${simbol} ${prefix}dropwater
+${simbol} ${prefix}lithgtext
+${simbol} ${prefix}crismes
+${simbol} ${prefix}tfire
+${simbol} ${prefix}sandw
+${simbol} ${prefix}text3dbox
+${simbol} ${prefix}leavest
+${simbol} ${prefix}tlight
+${simbol} ${prefix}nulis
+${simbol} ${prefix}blackpink
+${simbol} ${prefix}neon_light
+${simbol} ${prefix}gaming
+${simbol} ${prefix}watercolor
+
+❏ _*Anime*_
+${simbol} ${prefix}ass
+${simbol} ${prefix}ahegao
+${simbol} ${prefix}bdsm
+${simbol} ${prefix}blowjob
+${simbol} ${prefix}cuckold
+${simbol} ${prefix}cum
+${simbol} ${prefix}ero
+${simbol} ${prefix}femdom
+${simbol} ${prefix}foot
+${simbol} ${prefix}glasses
+${simbol} ${prefix}gangbang
+${simbol} ${prefix}hentai
+${simbol} ${prefix}jahy
+${simbol} ${prefix}orgy
+${simbol} ${prefix}pussy
+${simbol} ${prefix}panties
+${simbol} ${prefix}thighs
+${simbol} ${prefix}yuri
+${simbol} ${prefix}
+
+❏ _*Gfx text*_
+${simbol} ${prefix}gfx1
+${simbol} ${prefix}gfx2
+${simbol} ${prefix}gfx3
+${simbol} ${prefix}gfx4
+${simbol} ${prefix}gfx5
+${simbol} ${prefix}gfx6
